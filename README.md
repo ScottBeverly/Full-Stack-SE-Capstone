@@ -30,12 +30,12 @@ No Data Yet
 ## Wireframes
 - [WireFrame ](https://wireframepro.mockflow.com/view/Mf67811f7bed7c36d6dce5fdc8cd1719d1588953082681)
 ![Home](https://i.imgur.com/9ELZu5H.png)
-![Players](https://imgur.com/9ELZu5H)
-![Mechanics](<a href="https://imgur.com/9ELZu5H"><img src="https://i.imgur.com/9ELZu5H.png" title="source: imgur.com" /></a>)
+![Players](https://i.imgur.com/DVyWVwQ.png)
+![Mechanics](https://i.imgur.com/gco3XWM.png)
 
 ## FlowChart
 - [Architecture](https://drive.google.com/file/d/1RXtuJhg-JWalxV4UHbttYgsBgpPcWLLf/view?usp=sharing)
-![image description](full-image-path)
+![Architecture](https://i.imgur.com/J3VhJKz.png)
 
 #### MVP 
 - sucessful API data creation
