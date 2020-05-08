@@ -53,10 +53,11 @@ No Data Yet
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
-| Header | This will render the header include the nav and include links to render different pages |
 | main | This will render the Api information to the child components in this app |
 | Dash| This component will provide data from the Api including different events of the month |
 | Home | this Component will be same level as main and provide information from Nasa a very basic description of the company with route links to (Dash& Home) |
+| Players| This will render the players in the guild and  general css| 
+| Mecahnics | This will render boss mechanics players will face and general css| 
 | Footer | This will render general css| 
 
 
