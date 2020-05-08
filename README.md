@@ -1,7 +1,8 @@
 # Project Overview
 ### Guildies 
 ## Full-Stack App
-- [Guildies](https://github.com/ScottBeverly/Full-Stack-SE-Capstone)
+- [Guildies Front-end](https://github.comScottBeverlyFull-Stack-SE-Capstone-Front-end/blob/master/README.md)
+- [Guildies Back-end](https://github.com/ScottBeverly/Full-Stack-SE-Capstone-Back-end)
 
 ## Project Links
 
@@ -13,7 +14,7 @@
 This is an app where The gaming community can come together and view their fellow guild members to what they are doing for their class in the game. not only that but the database will be loaded with multiple descriptions on bosses that they will encounter throughout the game 
 ## API Snippet
 ```
-
+No Data Yet
 
 ```
 
@@ -83,7 +84,7 @@ This is an app where The gaming community can come together and view their fello
 ## Code Snippet
  
 ```
-
+No Snippet Yet
 ```
 
 
