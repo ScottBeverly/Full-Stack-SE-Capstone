@@ -2,7 +2,7 @@
 ### Guildies 
 ## Full-Stack App
 - [Guildies Front-end](https://github.comScottBeverlyFull-Stack-SE-Capstone-Front-end/blob/master/README.md)
-- [Guildies Back-end](https://github.com/ScottBeverly/Full-Stack-SE-Capstone-Back-end)
+
 
 ## Project Links
 
@@ -39,6 +39,8 @@ No Data Yet
 
 #### MVP 
 - sucessful API data creation
+- users will be able to full control the direction of the app they choose through routes and links
+- users will be able to select a certain player and boss to view more specifics
 - Provide a sucessful deployment for back-end and front-end
 - React front-end to pair with my database
 - creating My best possible work!
@@ -72,14 +74,12 @@ No Data Yet
 | MVP overview | H | 1hr | 1hr | 1hr |
 | Time Matrix overview | H | 1hr | 1hr | 1hr |
 | Editor Component Set-up Back-end | H | 2hr |  |  |
-| Editor Component Set-up Front-end | H | 2hr |  |  |
-| Back-end deployed | H | 4 hr |  |  |
 | Data Created | H | 5hr |  |  |
 | Basic Html set-up (Components) | M | 3hr |  |  |
 | Data rendered onto Page | M | 4hr |  |  |
 | Style with CSS | L | 7hr |  |  |
 | Re-Orginize files | L | 3hr |  |  |
-| Total | overall | 35.5hrs | 9hrs | 9hrs |
+| Total | overall | 29.5hrs | 9hrs | 9hrs |
 
 ## Additional Libraries Used/Will be Used
  - [Imgur](https://imgur.com/)
