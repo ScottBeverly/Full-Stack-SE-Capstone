@@ -78,7 +78,7 @@ No Data Yet
 | Data rendered onto Page | M | 4hr |  |  |
 | Style with CSS | L | 7hr |  |  |
 | Re-Orginize files | L | 3hr |  |  |
-| Total | overall | | 35.5hrs | 9hrs |
+| Total | overall | 35.5hrs | 9hrs | 9hrs |
 
 ## Additional Libraries Used/Will be Used
  - [Imgur](https://imgur.com/)
