@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState, useEffect}  from 'react';
 import Classes from '../classes/classes'
 import Home from '../home/home'
 import Bosses from '../bosses/bosses'
@@ -8,7 +8,9 @@ import {Route, Switch} from 'react-router-dom'
 
 
 
-function Main() {
+function Main(props) {
+
+
   return (
     <div>
       <Switch>
