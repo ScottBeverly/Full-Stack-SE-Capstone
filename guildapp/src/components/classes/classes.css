@@ -1,0 +1,38 @@
+.Dash{
+    width:100%;
+     background-size: cover;
+     margin: 0;
+     color:white;
+ }
+ .img2{
+    height: 100%;
+    width: 100%;
+}
+ h2 {
+    color: gray;
+    font-weight: 200;
+    text-decoration: underline;
+
+}
+ @media (min-width: 768px) and (max-width: 1023px){
+    .img2{
+        border-bottom: 1px white;
+    }
+    .render > img {
+        max-width: 700px;
+    }
+    .render > p{
+        color: black;
+    }
+}
+@media (min-width: 1024px){
+    .render > img {
+       max-width: 800px;   
+    }
+    .render > p{
+        
+        border-radius: 10px;
+    }
+}
+ 
+ 
