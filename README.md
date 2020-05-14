@@ -87,7 +87,11 @@ This is an app where The gaming community can come together and view their fello
 ## Code Snippet
  
 
-This snippet is One of the few captured during the creaction of this app. It is special because it captures the data being pulled from the api to be rendered on the screen. 
+This snippet is One of the few captured during the creaction of this app. 
+It is special because it captures the data being pulled from the api 
+to be rendered on the screen. 
+
+
 ![Api-Call](https://i.imgur.com/Lzz1Xbm.png)
 
 
