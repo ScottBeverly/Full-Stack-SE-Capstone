@@ -49,6 +49,7 @@ This is an app where The gaming community can come together and view their fello
 - Take my app to the next level and apply authentication login
 - Possibly branch out more in depth with more components and aditional components.  
 - Create Events page with even more Routes with guild events and meetups 
+- Create Authentication where Superusers can create and destroy new members
 
 ## Components
 
@@ -73,13 +74,14 @@ This is an app where The gaming community can come together and view their fello
 | App Architecture | H | 1hr | 1hr | 1hr |
 | MVP overview | H | 1hr | 1hr | 1hr |
 | Time Matrix overview | H | 1hr | 1hr | 1hr |
-| Editor Component Set-up Back-end | H | 2hr |  |  |
-| Data Created | H | 5hr |  |  |
-| Basic Html set-up (Components) | M | 3hr |  |  |
-| Data rendered onto Page | M | 4hr |  |  |
-| Style with CSS | L | 7hr |  |  |
-| Re-Orginize files | L | 3hr |  |  |
-| Total | overall | 29.5hrs | 9hrs | 9hrs |
+| Editor Component Set-up Front-end | H | 2hr | 2hr | 2hr |
+| Data Created | H | 5hr | 4hr | 4hr |
+| Basic Html set-up (Components) | M | 3hr | 2hr | 2hr |
+| Deployment | H | 1hr | 1hr | 1hr |
+| Data rendered onto Page | M | 4hr | 4hr | 4hr |
+| Style with CSS | L | 7hr | 8hr | 8hr |
+| Re-Orginize files | L | 3hr | 1hr | 1hr |
+| Total | overall | 29.5hrs | 27hrs | 27hrs |
 
 ## Additional Libraries Used/Will be Used
  - [Imgur](https://imgur.com/)

@@ -11,7 +11,7 @@ Span:hover{
     color:orange;
     text-decoration: underline;
 }
-  h2 {
+.Head h2 {
     padding-left: 0px;
     margin:10px;
     font-family: 'Fredoka One', cursive;

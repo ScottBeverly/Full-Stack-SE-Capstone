@@ -38,10 +38,10 @@ function Players(props) {
     <div className='Players'>
       <section>
           <div>
-            <img className='img2'src='https://i.imgur.com/ucNqohr.jpg'></img>
-            <h1>Raid Team <br></br>
-            Peel Team Six
+          <h1>Raid Team 
+            " Peel Team Six "
             </h1> 
+            <img className='img5'src='https://i.imgur.com/ucNqohr.jpg'></img>
             <div className= 'bigbox1'>
             {api}
          </div>
