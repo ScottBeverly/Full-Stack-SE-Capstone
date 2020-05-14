@@ -19,17 +19,18 @@ const [data,setData] = useState([])
   const api = data.map((data,index) =>{
     
     return(
-      <div key ={index} className='Main-Class' >
+      <div key ={index}className='Main-Class' >
         <div className='box'>
         <h1>{data.class_name}</h1>
         <p>{data.class_description}</p>
-        <p>{data.class_spec}</p>
-        <p>{data.class_race}</p>
-        <p>{}</p>
+        <p><span className='word'>Specs</span><br></br> {data.class_spec}</p>
+        <p><span className='word2'>Races</span><br></br>{data.class_race}</p>
+        
        
         </div>
 
       </div>
+      
     )
   })
   
@@ -45,7 +46,10 @@ const [data,setData] = useState([])
             World Of Warcraft
             </h2> 
             <div className='render'>
-            <p>{api}</p>
+              <div className='bigbox'>
+                
+            {api}
+            </div>
        
         </div>
          

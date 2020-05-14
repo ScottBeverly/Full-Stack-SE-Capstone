@@ -20,7 +20,7 @@ const [data,setData] = useState([])
     
     return(
       <div key ={index} className='Main-Class' >
-        <div className='box'>
+        <div className='box5'>
         <h1>{data.boss_name}</h1>
         <p>{data.boss_description}</p>
        
@@ -40,7 +40,9 @@ const [data,setData] = useState([])
             <h2>Ny'alotha <br></br>
             Bosses
             </h2> 
+            <div className='bigbox3'>
             {api}
+            </div>
          
         </div>
       </section>

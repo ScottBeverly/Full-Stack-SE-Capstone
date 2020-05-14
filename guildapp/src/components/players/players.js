@@ -19,18 +19,17 @@ function Players(props) {
   const api = data.map((data,index) =>{
     
     return(
-      <div key ={index} className='Main-Class' >
-        <div className='box'>
-        <h1>{data.player_name}</h1>
-        <p>{data.player_description}</p>
-        <p>{data.player_race}</p>
-        <p>{data.player_spec}</p>
-        <p>{data.class_name}</p>
-       
-       
-        </div>
-
+      <div key ={index}className='Main-Class' >
+      <div className='box3'>
+      <h1>{data.player_name}</h1>
+      <p>{data.player_description}</p>
+      <p><span className='word'>Spec</span><br></br> {data.player_spec}</p>
+      <p><span className='word2'>Race</span><br></br>{data.player_race}</p>
+      
+     
       </div>
+
+    </div>
     )
   })
 
@@ -40,11 +39,12 @@ function Players(props) {
       <section>
           <div>
             <img className='img2'src='https://i.imgur.com/ucNqohr.jpg'></img>
-            <h2>Raid Team <br></br>
+            <h1>Raid Team <br></br>
             Peel Team Six
-            </h2> 
+            </h1> 
+            <div className= 'bigbox1'>
             {api}
-         
+         </div>
         </div>
       </section>
     </div>

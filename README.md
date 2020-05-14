@@ -14,7 +14,7 @@
 This is an app where The gaming community can come together and view their fellow guild members to what they are doing for their class in the game. not only that but the database will be loaded with multiple descriptions on bosses that they will encounter throughout the game 
 ## API Snippet
 ```
-No Data Yet
+![API](https://i.imgur.com/ypDkIM6.png)
 
 ```
 
@@ -87,7 +87,8 @@ No Data Yet
 ## Code Snippet
  
 ```
-No Snippet Yet
+This snippet is One of the few captured during the creaction of this app. It is special because it captures the data being pulled from the api to be rendered on the screen. 
+![Api-Call](https://i.imgur.com/Lzz1Xbm.png)
 ```
 
 
