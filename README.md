@@ -6,8 +6,7 @@
 
 ## Project Links
 
-- [API Data Link](Backend-not-deployed)
-- [Netlify](front-end-not-deployed)
+- [Netlify](https://peel-team-six.netlify.app/)
 
 ## Project Description
 
