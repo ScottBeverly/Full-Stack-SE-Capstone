@@ -9,21 +9,17 @@
    background-image: url('https://i.imgur.com/nEcr70E.jpg');
    background-size:cover;
    color: white;
-   margin-top: 20px;
-   
+   margin-top: 20px;  
 }
 .box3 > p{
     margin-top:20px;
     font-size: 17px;
     font-family: 'Sedgwick Ave', cursive;
-    padding-bottom: 0px;
-
-    
+    padding-bottom: 0px;   
 }
 .word{
     text-decoration: underline;
-    font-family: 'Courier New', Courier, monospace;
-    
+    font-family: 'Courier New', Courier, monospace;   
 }
 .word2{
     text-decoration: underline;
@@ -38,33 +34,26 @@
 }
  .img5{
     height: 100%;
-    width: 100%;
-   
+    width: 100%; 
 }
  h2 {
     color: gray;
     font-weight: 200;
     text-decoration: underline;
-
-}.bigbox1{
+}
+.bigbox1{
     display:flex;
     flex-wrap:wrap;
     justify-content: space-around;
     width:cover;
-    background-color:rgb(170, 34, 34);
-    
-   
+    background-color:rgb(170, 34, 34);  
 }
 h1{
-margin: 0px;
-padding:20px;
-color:black;
-background: gray;
-border: 2px solid white;
-border-radius: 5px;
-font-family: 'Fredoka One', cursive;
-
-
-    
-    
+    margin: 0px;
+    padding:20px;
+    color:black;
+    background: gray;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-family: 'Fredoka One', cursive;   
 }

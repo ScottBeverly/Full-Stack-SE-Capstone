@@ -9,8 +9,6 @@ import {Route, Switch} from 'react-router-dom'
 
 
 function Main(props) {
-
-
   return (
     <div>
       <Switch>
@@ -22,5 +20,4 @@ function Main(props) {
     </div>
   );
 }
-
 export default Main;
